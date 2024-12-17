@@ -3,8 +3,8 @@
 ## 1) About the Test
 - It’s a performance-based exam: **ALL QUESTIONS** will require CLI commands, mostly with `kubectl`.
 - Links:
-  - [go/k8s-cka](http://goto.google.com/k8s-cka)
-  - [go/k8s-ckad](http://goto.google.com/k8s-ckad)
+  - [https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/]
+  - [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/]
 
 ---
 
